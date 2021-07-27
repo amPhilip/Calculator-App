@@ -9,7 +9,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1043a7df-45ca-4454-aa55-09c9fb33ee62" name="Default Changelist" comment="" />
+    <list default="true" id="1043a7df-45ca-4454-aa55-09c9fb33ee62" name="Default Changelist" comment="Android Calculator Project: Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calcapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calcapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +39,8 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="SerialNumber@0442025956007157" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-22T06:43:49.892147Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/phil/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="last_opened_file_path" value="E:/CalcApplication" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
@@ -112,17 +119,37 @@
       <option name="presentableId" value="Default" />
       <updated>1626925833482</updated>
     </task>
+    <task id="LOCAL-00001" summary="Android Calculator Project: Initial commit">
+      <created>1626945079942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626945079942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Android Calculator Project: Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Android Calculator Project: Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2078" y="344" key="#Notifications" timestamp="1626944015391">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="2078" y="344" key="#Notifications/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1626944015391" />
+    <state x="2106" y="261" key="FileChooserDialogImpl" timestamp="1626946244591">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="261" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1626946244591" />
     <state x="1827" y="165" key="SettingsEditor" timestamp="1626944778050">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="328" y="18" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1626944363004" />
     <state x="1827" y="165" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1626944778050" />
+    <state x="1918" y="253" key="Vcs.Push.Dialog.v2" timestamp="1626945246390">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="253" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1626945246390" />
   </component>
 </project>
